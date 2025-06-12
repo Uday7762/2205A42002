@@ -1,4 +1,9 @@
 # 2205A42002
+Steps to run: 
+1. npm install
+2. node index.js
+
+After registering with server, we get our access key and with this we can use Postmam and access the data and here are the images from Postman:
 ![image](https://github.com/user-attachments/assets/aa60b4d5-4b7d-4ae3-a73a-9db6d7fe8f1c)
 
 ![image](https://github.com/user-attachments/assets/da356ddf-f9ee-4421-bbe1-8a3a2951654e)
