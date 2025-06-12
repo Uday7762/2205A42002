@@ -10,3 +10,5 @@ After registering with server, we get our access key and with this we can use Po
 Able to fetch the data from API by authorising the access key.
 
 I have created controller, router and gave the access key and the server is runninhg but it is loading continuously and I am not able to see the output, but I have created functions for average.
+![image](https://github.com/user-attachments/assets/bbe88cd7-6eac-4909-9be8-4e99cd138be2)
+
